@@ -57,24 +57,27 @@ Operating System :
     <td align="center">
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Yogeshramu&count_private=true&theme=radical&show_icons=true" />
     </td>
-    
-  </tr>
-  <tr>
-          <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshramu&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
-          </td>
+    </tr>
+    <tr>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Yogeshramu&theme=dark&hide_border=true&background=120303">
     </td>
+    </tr>
   </tr>
+  <tr>
+    <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshramu&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+          </td>
+  </tr>
+
 </table>
 
 <a href="https://github.com/Yogeshramu/Ctf-Players">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yogeshramu&repo=Ctf-Players&theme=radical&show_icons=true" />
+ <img align="center" src="https://github.com/Yogeshramu/cloning-insta.git" />
 </a>
 
 <a href="https://github.com/Yogeshramu/Yogeshramu.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yogeshramu&repo=Yogeshramu.github.io&theme=radical&show_icons=true" />
+  <img align="center" src="https://github.com/Yogeshramu/Construction-Website.git" />
 </a>
 
 ### 👨‍🎓 ping me if you like :
