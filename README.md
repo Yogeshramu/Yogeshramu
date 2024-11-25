@@ -95,4 +95,9 @@ Check out [My GitHub](https://github.com/Yogeshramu) for additional repositories
 - **Gaming**: Passionate about gaming and exploring new tech in virtual reality and game development.
 - **Technology & Gadgets**: Always curious about the latest tech gadgets and innovations.
 - **Cooking**: A foodie at heart, I enjoy trying new recipes and cooking in my free time.
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Thank You" width="300">
+</p>
 
