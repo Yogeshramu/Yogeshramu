@@ -12,7 +12,7 @@
 - **😄 Pronouns: Too reach the top spot one day...**
 - **⚡ Fun fact: doing crazy than you through:?**
 
-[![@Yogeshramu's Holopin board](https://holopin.io/api/user/board?user=Yogeshramu)](https://holopin.io/@Yogeshramu)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yogeshramu&label=Views&color=blue&style=plastic" alt="Yogeshramu" /> </p>
 
 ***
