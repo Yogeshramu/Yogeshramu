@@ -4,15 +4,6 @@
 
 ---
 
-## 🔗 Navigation
-- [Home](#home)
-- [About](#about-me)
-- [Services](#services)
-- [Projects](#featured-projects)
-- [Contact](#contact-me)
-
----
-
 ## 🏠 Home
 **A Creative Designer & Developer**  
 Blending **functionality** with **creativity**, I specialize in **MERN Stack**, **Shopify**, **WordPress**, and **UI/UX Design**. With strong collaboration skills, I bring ideas to life and enhance user engagement.  
@@ -90,14 +81,14 @@ Check out [My GitHub](https://github.com/Yogeshramu) for additional repositories
 - **GitHub:** [Yogeshramu GitHub](https://github.com/Yogeshramu)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Contact Animation" width="200">
+  <img src="https://media.giphy.com/media/3o6gE5aY8OHtFhjl6g/giphy.gif" alt="Contact Animation" width="200">
 </p>
 
 ---
 
 ## ✨ Testimonials & Reviews
-> **"Yogesh is an amazing designer with an eye for detail. He transformed our website into something amazing and highly engaging."**  
-– **John Doe, CEO of XYZ Corp**
+> **"Yogesh is an exceptional designer and web developer who has consistently delivered outstanding results. His ability to understand client needs, transform them into engaging designs, and implement them seamlessly into our web applications is remarkable. He truly enhances every project he works on."**  
+– **Active Theory Manager, Active Theory**
 
 > **"A very talented web developer. I loved working with Yogesh on our Shopify store project. His attention to user experience is phenomenal."**  
 – **Jane Smith, Marketing Manager**
@@ -109,8 +100,3 @@ Check out [My GitHub](https://github.com/Yogeshramu) for additional repositories
 - **Technology & Gadgets**: Always curious about the latest tech gadgets and innovations.
 - **Cooking**: A foodie at heart, I enjoy trying new recipes and cooking in my free time.
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6gE5aY8OHtFhjl6g/giphy.gif" alt="Footer Animation" width="300">
-</p>
