@@ -97,23 +97,16 @@ Check out [My GitHub](https://github.com/Yogeshramu) for additional repositories
 - **Cooking**: A foodie at heart, I enjoy trying new recipes and cooking in my free time.
 ---
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Yogeshramu&count_private=true&theme=radical&show_icons=true" alt="Yogeshramu Stats" />
-</p>
-
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yogeshramu&theme=dark&hide_border=true&background=120303" alt="Yogeshramu Streak Stats" />
-</p>
-
-<!-- GitHub Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshramu&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" alt="Yogeshramu Language Stats" />
-</p>
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Thank You" width="300">
-</p>
-
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img width="300" src="https://github-readme-stats.vercel.app/api?username=Yogeshramu&count_private=true&theme=radical&show_icons=true" alt="Yogeshramu Stats" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img width="300" src="https://github-readme-streak-stats.herokuapp.com?user=Yogeshramu&theme=dark&hide_border=true&background=120303" alt="Yogeshramu Streak Stats" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshramu&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" alt="Yogeshramu Language Stats" />
+    </td>
+  </tr>
+</table>
