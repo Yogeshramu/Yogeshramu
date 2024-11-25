@@ -1,68 +1,73 @@
 <p align="center">
-  <img height="30" src="https://forthebadge.com/images/badges/winter-is-coming.svg" />
+  <img src="https://forthebadge.com/images/badges/winter-is-coming.svg" height="30" />
 </p>
 
 # Hi, I'm Yogesh R <img src="https://raw.githubusercontent.com/Yogeshramu/Yogeshramu/main/iteams/Hi.gif" height="30" />
-Known online as **Yogeshramu**, I am a Web Developer, Graphic Designer, and tech enthusiast passionate about creating dynamic and visually appealing applications.
+*A young designer with a knack for blending creativity and functionality.*  
+I excel at transforming concepts into engaging visuals, backed by strong communication and collaboration skills to bring ideas to life.
 
 ![image](/iteams/programer.gif)
 
 ---
 
-## 👩‍💻 About Me:
-- 🔭 Currently a **Web Developer** and **Graphic Designer**, specializing in **code & no-code solutions**.
-- 🌱 Learning **Node.js** and exploring the world of **data science**.
-- 🎨 Designing engaging visuals using tools like **Canva** and **Adobe Photoshop**.
-- 👯 Seeking collaborators for **MERN stack** and **design-heavy web projects**.
-- 💬 Ask me about **web development** or **graphic design**.
-- ⚡ Fun Fact: I combine coding with design to craft unique user experiences!
+## 🚀 About Me
+- **🔭 Web Developer & Designer** specializing in MERN stack, Shopify, and WordPress.
+- **🎨 UI/UX Enthusiast** passionate about creating engaging and user-centric designs.
+- **🌱 Currently mastering Node.js and exploring advanced Data Visualization.**
+- **✨ Fun Fact:** I merge creativity with code to bring ideas to life!
 
 ---
 
-## 🛠️ Languages, Tools, and Skills:
-<p>
-  <b>Programming Languages:</b>  
-  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
-  <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> 
-  <a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/> </a> 
+## 🛠️ Skills and Tools
+### Web Development:
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)  
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)  
+![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)  
+![Shopify](https://avatars.githubusercontent.com/u/8085?s=200&v=4) ![WordPress](https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg)
 
-  <b>Design Tools:</b>  
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/> </a>
-  <a href="https://www.canva.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/canva-3521426-2945006.png" alt="Canva" width="40" height="40"/> </a>
+### Design and Prototyping:
+![Figma](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg)  
+<img src="https://cdn-icons-png.flaticon.com/512/281/281760.png" alt="Photoshop Animation" width="40" height="40" style="animation: spin 2s linear infinite;">
 
-  <b>Web Development:</b>  
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-</p>
+### Data and Backend:
+![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)  
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)  
+![Core Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 
 ---
 
-## 🌟 Featured Projects:
-### [Instagram Clone](https://github.com/Yogeshramu/cloning-insta)
-A clone of Instagram with:
-- User authentication and profile management.
-- Post creation, editing, and deletion.
-- React.js for frontend and Firebase for backend.
+## 📌 Featured Projects
+### **Wireframing and Prototyping**
+- Designed an interactive and fully responsive portfolio using **Figma**, showcasing advanced UI/UX skills.
 
-### [Food Delivery Frontend](https://github.com/Yogeshramu/Food-Delivery)
-A React-based food delivery app featuring:
-- User authentication.
-- Cart management.
-- Integrated payment gateway.
+### **Shopify Store Development**
+- Customized and optimized Shopify e-commerce platforms to enhance user engagement and drive sales.
 
-### [Portfolio Website](https://github.com/Yogeshramu/Yogeshramu.github.io)
-A modern, responsive portfolio showcasing skills, projects, and contact info.
+### **WordPress Landing Page**
+- Successfully developed a dynamic landing page with SEO optimization and custom plugins for added functionality.
 
-### [Construction Company Website](https://github.com/Yogeshramu/Construction-Website)
-A static website for a construction company built using **HTML5**, **CSS3**, and **JavaScript**.
+### **Read More Projects:**
+Explore my GitHub for more projects like:
+- Instagram Clone ([Visit Repository](https://github.com/Yogeshramu/cloning-insta))
+- Mobile App for Food Delivery Platforms
+- Technical Projects using modern frameworks.  
+[Visit GitHub Profile](https://github.com/Yogeshramu) for more details.
 
 ---
 
-## 📈 Find Me:
-[![Bento](https://img.shields.io/badge/Bento.me-Yogesh-blue?style=for-the-badge)](https://bento.me/yoge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Yogeshramu)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Yogeshramu)
+## 📚 Education and Certifications
+### **B.Tech Computer Science and Business Systems**  
+*Nehru Institute of Engineering and Technology (2021–2025)*  
+- Current CGPA: 7.53
+
+### **Certifications**
+- **Full Stack Developer**: Techvolt (2024)  
+- **Data Visualization**: IBM (2024)  
+- **Digital Marketing**: Gateway Solutions (2023)  
+
+---
+
+## 🌟 Quick Links
+[![Bento](https://img.shields.io/badge/Bento.me-Yogesh-blue?style=for-the-badge)](https://bento.me/yoge)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Yogeshramu)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yogeoffcl)
