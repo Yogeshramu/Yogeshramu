@@ -4,9 +4,19 @@
 
 ---
 
+## 🔗 Navigation
+- [Home](#home)
+- [About](#about-me)
+- [Services](#services)
+- [Projects](#featured-projects)
+- [Contact](#contact-me)
+
+---
+
 ## 🏠 Home
 **A Creative Designer & Developer**  
-Blending **functionality** with **creativity**, I specialize in **MERN Stack**, **Shopify**, **WordPress**, and **UI/UX Design**. With strong collaboration skills, I bring ideas to life and enhance user engagement.
+Blending **functionality** with **creativity**, I specialize in **MERN Stack**, **Shopify**, **WordPress**, and **UI/UX Design**. With strong collaboration skills, I bring ideas to life and enhance user engagement.  
+I have worked with clients globally and continuously push my limits to stay on top of industry trends.
 
 ---
 
@@ -17,39 +27,57 @@ Blending **functionality** with **creativity**, I specialize in **MERN Stack**, 
 - **👨‍🎨 Creative Problem Solver**  
   Strong passion for building **user-centric interfaces** and crafting unique **e-commerce platforms**.
 - **🔍 Always Exploring**  
-  Currently enhancing my skills in **Node.js** and **Data Visualization**.
+  Currently enhancing my skills in **Node.js** and **Data Visualization** to create data-driven and performance-optimized web applications.
 
 ---
 
 ## 💼 Services
 ### **Web Development**
-- Building responsive, performance-driven websites with **React.js** and **Node.js**.
-- Expertise in **Shopify Store Customization** and **WordPress Development**.
+- **React.js** & **Node.js**: Building responsive, performance-driven websites.
+- **Shopify Store Customization**: Expertise in Shopify themes, API integration, and plugin installations.
+- **WordPress Development**: Designing SEO-optimized, fully responsive WordPress sites.
 
 ### **UI/UX Design**
-- **Prototyping**: Using tools like **Figma** to create intuitive and appealing designs.
-- **Branding**: Enhancing visual identity through clean, user-focused designs.
+- **Prototyping**: Using **Figma** and **Adobe XD** to craft user-centric prototypes that align with brand identity.
+- **Wireframing & Branding**: Designing wireframes and creating visually appealing branding to enhance user experience and conversions.
 
 ### **E-commerce Solutions**
-- Optimizing Shopify and WordPress stores for better user experiences and conversions.
+- Tailoring **Shopify** and **WordPress** solutions for businesses to drive sales and improve customer engagement through enhanced designs and user experience optimizations.
 
 ---
 
 ## 📂 Featured Projects
 ### **Instagram Clone**  
 **Tech Stack:** React.js, Firebase  
-Created a fully functional Instagram replica featuring authentication and live data updates.  
+Created a fully functional Instagram replica featuring authentication, user profiles, and live data updates.  
 [View Project](https://github.com/Yogeshramu/cloning-insta)
 
 ### **Food Ordering App**  
-**Tech Stack:** Figma, React Native  
-Designed and developed a mobile app prototype with intuitive navigation and clear visuals to enhance usability.  
+**Tech Stack:** React Native, Figma  
+Designed and developed a mobile app prototype with intuitive navigation and clear visuals to enhance usability and improve customer engagement.
 
 ### **Shopify Store Customization**  
-Customized Shopify templates and integrated plugins to improve store performance and functionality.
+Customized Shopify templates, added apps for performance optimization, and integrated plugins to improve the store's functionality and overall user experience.
+
+### **WordPress Portfolio Site**  
+Built a personal portfolio using **WordPress** to showcase my web development and design work with an intuitive, responsive layout.
 
 **💡 Explore More Projects:**  
-Check out [My GitHub](https://github.com/Yogeshramu) for additional repositories and innovative ideas.
+Check out [My GitHub](https://github.com/Yogeshramu) for additional repositories showcasing a range of web development and design projects.
+
+---
+
+## 📅 My Timeline & Experience
+
+- **06/2024 – Present:** **Web Developer** at Active Theory  
+  - Led the design and development of **MERN stack web applications** and **Shopify e-commerce stores**.
+  - Enhanced **UI/UX** designs to improve brand identity and user engagement.
+  
+- **08/2024 – 10/2024:** **Full Stack Developer** at Techvolt  
+  - Gained hands-on experience with **backend development** using **Node.js**, **Express.js**, and **MongoDB**.
+  
+- **05/2024 – 06/2024:** **Data Visualization Intern** at IBM  
+  - Worked on creating interactive data visualizations using **Power BI** and **Jupyter**.
 
 ---
 
@@ -57,8 +85,32 @@ Check out [My GitHub](https://github.com/Yogeshramu) for additional repositories
 - **Portfolio:** [Bento.me](https://bento.me/yoge)
 - **LinkedIn:** [Yogesh R](https://linkedin.com/in/Yogeshramu)
 - **Instagram:** [@yogeoffcl](https://instagram.com/yogeoffcl)
-- **Email:** yogeshramu@example.com
+- **Twitter:** [@Yogeshramu](https://twitter.com/Yogeshramu)
+- **Email:** yogeshramu@example.com  
+- **GitHub:** [Yogeshramu GitHub](https://github.com/Yogeshramu)
 
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Contact Animation" width="200">
+</p>
+
+---
+
+## ✨ Testimonials & Reviews
+> **"Yogesh is an amazing designer with an eye for detail. He transformed our website into something amazing and highly engaging."**  
+– **John Doe, CEO of XYZ Corp**
+
+> **"A very talented web developer. I loved working with Yogesh on our Shopify store project. His attention to user experience is phenomenal."**  
+– **Jane Smith, Marketing Manager**
+
+---
+
+## 🎮 Interests
+- **Gaming**: Passionate about gaming and exploring new tech in virtual reality and game development.
+- **Technology & Gadgets**: Always curious about the latest tech gadgets and innovations.
+- **Cooking**: A foodie at heart, I enjoy trying new recipes and cooking in my free time.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6gE5aY8OHtFhjl6g/giphy.gif" alt="Footer Animation" width="300">
 </p>
