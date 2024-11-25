@@ -72,7 +72,7 @@ Operating System :
 
 </table>
 
-<a href="https://github.com/Yogeshramu/Ctf-Players">
+<a href="(https://github.com/Yogeshramu/cloning-insta.git)">
  <img align="center" src="https://github.com/Yogeshramu/cloning-insta.git" />
 </a>
 
