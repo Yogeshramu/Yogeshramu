@@ -80,10 +80,6 @@ Check out [My GitHub](https://github.com/Yogeshramu) for additional repositories
 - **Email:** yogeshramu@example.com  
 - **GitHub:** [Yogeshramu GitHub](https://github.com/Yogeshramu)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6gE5aY8OHtFhjl6g/giphy.gif" alt="Contact Animation" width="200">
-</p>
-
 ---
 
 ## ✨ Testimonials & Reviews
