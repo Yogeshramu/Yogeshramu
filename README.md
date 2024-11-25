@@ -3,31 +3,32 @@
 </p>
 
 # Hi, I'm Yogesh R <img src="https://raw.githubusercontent.com/Yogeshramu/Yogeshramu/main/iteams/Hi.gif" height="30" />
-Known online as **Yogeshramu**, I am a Web Developer passionate about building dynamic web applications and exploring data science.
+Known online as **Yogeshramu**, I am a Web Developer, Graphic Designer, and tech enthusiast passionate about creating dynamic and visually appealing applications.
 
 ![image](/iteams/programer.gif)
 
 ---
 
 ## 👩‍💻 About Me:
-- 🔭 I’m currently a Web Developer specializing in **code & no-code solutions**.
-- 🌱 I’m learning **Node.js** and exploring **data science**.
-- 👯 Seeking collaborators on **MERN stack** projects.
-- 💬 Ask me about **web development**, **React**, or creative workflows.
-- ⚡ Fun Fact: I enjoy exploring unconventional tech solutions and pushing creative boundaries!  
+- 🔭 Currently a **Web Developer** and **Graphic Designer**, specializing in **code & no-code solutions**.
+- 🌱 Learning **Node.js** and exploring the world of **data science**.
+- 🎨 Designing engaging visuals using tools like **Canva** and **Adobe Photoshop**.
+- 👯 Seeking collaborators for **MERN stack** and **design-heavy web projects**.
+- 💬 Ask me about **web development**, **graphic design**, or building **Discord bots**.
+- ⚡ Fun Fact: I combine coding with design to craft unique user experiences!  
 
 ---
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages, Tools, and Skills:
 <p>
   <b>Programming Languages:</b>  
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
   <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> 
   <a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/> </a> 
 
-  <b>Data Science Tools:</b>  
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
-  <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/> </a>
+  <b>Design Tools:</b>  
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/> </a>
+  <a href="https://www.canva.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/canva-3521426-2945006.png" alt="Canva" width="40" height="40"/> </a>
 
   <b>Web Development:</b>  
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
@@ -35,24 +36,38 @@ Known online as **Yogeshramu**, I am a Web Developer passionate about building d
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
   <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a>
+
+  <b>Automation & Chatbots:</b>  
+  <a href="https://discord.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
 </p>
 
 ---
 
 ## 🌟 Featured Projects:
+### [Instagram Clone](https://github.com/Yogeshramu/cloning-insta)
+A clone of Instagram with:
+- User authentication and profile management.
+- Post creation, editing, and deletion.
+- React.js for frontend and Firebase for backend.
+
+### [Discord Chatbot](https://github.com/Yogeshramu/discord-bot)
+An interactive Discord bot built using Python that includes:
+- Custom commands.
+- Server moderation features.
+- Fun and utility tools.
+
 ### [Food Delivery Frontend](https://github.com/Yogeshramu/Food-Delivery)
-A React-based food delivery app with:
+A React-based food delivery app featuring:
 - User authentication.
 - Cart management.
 - Integrated payment gateway.
 
 ### [Portfolio Website](https://github.com/Yogeshramu/Yogeshramu.github.io)
-A modern portfolio showcasing skills, projects, and contact info.
+A modern, responsive portfolio showcasing skills, projects, and contact info.
 
-### [Construction Website](https://github.com/Yogeshramu/Construction-Website)
-A static website for a construction company, built with **HTML5**, **CSS3**, and **JavaScript**.
+### [Construction Company Website](https://github.com/Yogeshramu/Construction-Website)
+A static website for a construction company built using **HTML5**, **CSS3**, and **JavaScript**.
 
 ---
 
