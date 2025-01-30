@@ -102,7 +102,7 @@ Check out [My GitHub](https://github.com/Yogeshramu) for additional repositories
     <img width="600" src="https://github-readme-stats.vercel.app/api?username=Yogeshramu&count_private=true&theme=radical&show_icons=true" alt="Yogeshramu Stats" />
   </div>
   <div style="flex: 1; text-align: center; padding: 20px;">
-    <img width="600" src="https://github-readme-streak-stats.herokuapp.com?user=Yogeshramu&theme=dark&hide_border=true&background=120303" alt="Yogeshramu Streak Stats" />
+<img width="600" src="https://github-readme-streak-stats.herokuapp.com?user=Yogeshramu&theme=dark&hide_border=true&background=120303" alt="Yogeshramu Streak Stats" />
   </div>
   <div style="flex: 1; text-align: center; padding: 20px;">
     <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshramu&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" alt="Yogeshramu Language Stats" />
