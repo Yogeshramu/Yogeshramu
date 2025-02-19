@@ -77,7 +77,7 @@ Check out [My GitHub](https://github.com/Yogeshramu) for additional repositories
 - **LinkedIn:** [Yogesh R](https://linkedin.com/in/Yogeshramu)
 - **Instagram:** [@yogeoffcl](https://instagram.com/yogeoffcl)
 - **Twitter:** [@Yogeshramu](https://twitter.com/Yogeshramu)
-- **Email:** yogeshramu@gmail.com  
+- **Email:** yogeshpmk1@gmail.com  
 - **GitHub:** [Yogeshramu GitHub](https://github.com/Yogeshramu)
 
 ---
