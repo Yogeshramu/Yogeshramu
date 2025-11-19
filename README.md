@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1D76DB&width=600&lines=Welcome+to+My+GitHub Profile!I'm+Yogesh+R" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1D76DB&width=600&lines=Welcome+to+My+GitHub+Profile!;I'm+Yogesh+R" alt="Typing Animation">
 </div>
+
 
 ---
 
