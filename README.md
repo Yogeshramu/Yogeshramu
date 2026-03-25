@@ -1,149 +1,165 @@
+
+---
+
+````md
+<!-- HERO SECTION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=900&lines=Hi+👋+I'm+Yogesh+R;DevOps+Engineer+%7C+AWS+%7C+Docker+%7C+CI/CD;Building+Scalable+and+Automated+Systems" />
+
+# 🚀 Yogesh R
+### ⚡ DevOps Engineer | AWS | Docker | CI/CD
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Automating+Everything...;Building+Scalable+Cloud+Systems;CI%2FCD+%7C+Docker+%7C+AWS+Expert" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge)](https://bento.me/yoge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogesh-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Yogeshramu)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:yogeshpmk1@gmail.com)
+
 </div>
 
 ---
 
-# 👨‍💻 Yogesh R — DevOps Engineer
+# 🧑‍🚀 About Me
 
-📍 Coimbatore, India  
-📧 yogeshpmk1@gmail.com  
-📱 +91 8056885792  
+💡 DevOps Engineer passionate about **automation, scalability, and performance**
 
----
-
-## 🚀 About Me
-
-DevOps Engineer with hands-on experience in building **scalable cloud infrastructure**, **CI/CD pipelines**, and **containerized deployments**.
-
-I specialize in:
-- ⚙️ Automating deployments using CI/CD pipelines  
-- ☁️ Designing AWS cloud infrastructure  
-- 🐳 Containerizing applications using Docker  
-- 📦 Managing production systems with reliability & performance focus  
-
-Currently working at **Synvolve Intellis Pvt Ltd**, improving deployment efficiency and system stability.
+- ⚙️ CI/CD pipelines → GitHub Actions & GitLab CI/CD  
+- ☁️ AWS Infrastructure → ECS, EC2, RDS, VPC  
+- 🐳 Docker-first deployments  
+- 📊 Monitoring → CloudWatch, Grafana  
+- 🔥 Reduced deployment time by **40%**
 
 ---
 
-## 🧠 What I Do
+# 🧩 What I Do
 
-### ⚙️ DevOps & CI/CD
-- Built CI/CD pipelines using **GitHub Actions & GitLab CI/CD**
-- Automated Docker build, push & deployment workflows
-- Reduced deployment time by **40%**
+<div align="center">
 
-### ☁️ Cloud & Infrastructure
-- Designed and managed AWS infra:
-  - EC2, ECS (Fargate), RDS, S3, VPC, IAM, ALB
-- Created secure, scalable architectures with proper networking
+| ⚙️ DevOps | ☁️ Cloud | 🐳 Containers | 📊 Monitoring |
+|----------|---------|--------------|--------------|
+| CI/CD Pipelines | AWS Architecture | Docker | CloudWatch |
+| Automation | VPC Design | ECS Fargate | Grafana |
+| GitLab Runner | Security Groups | Image Optimization | Logs Debugging |
 
-### 🐳 Containerization
-- Dockerized applications for consistent deployments
-- Managed container lifecycle, debugging & optimization
-
-### 📊 Monitoring & Reliability
-- Used **CloudWatch & Grafana** for monitoring
-- Debugged production issues and improved uptime
+</div>
 
 ---
 
-## 🏗️ Featured Projects
+# 🏗️ Projects
 
-### 🚀 AWS ECS Production Deployment Architecture
-**Tech Stack:** AWS ECS, Docker, ECR, RDS, ALB, VPC, GitLab CI/CD  
+## 🚀 AWS ECS Production System
+```diff
++ Multi-AZ Architecture
++ ECS Fargate Deployment
++ ALB + Auto Scaling
++ GitLab CI/CD Pipeline
+````
 
-- Designed **multi-AZ architecture**
-- Deployed apps on **ECS Fargate**
-- Implemented **CI/CD pipeline for auto deployment**
-- Configured ALB for scalability  
+## ⚙️ CI/CD Automation Platform
+
+```diff
++ End-to-End Pipeline
++ Docker Build & Deploy
++ Zero Manual Deployment
++ Faster Releases
+```
 
 ---
 
-### ⚙️ CI/CD Pipeline Automation System
-**Tech Stack:** GitHub Actions, Docker, AWS, Linux  
+# 🛠️ Tech Stack
 
-- Built end-to-end CI/CD pipelines  
-- Automated build → test → deploy workflow  
-- Reduced manual work & improved release consistency  
-
----
-
-## 🛠️ Tech Stack
+<div align="center">
 
 ### ☁️ Cloud
-AWS (EC2, ECS, ECR, RDS, S3, VPC, IAM, ALB, CloudWatch)
+
+AWS (EC2 • ECS • ECR • RDS • S3 • VPC • IAM • ALB)
 
 ### ⚙️ DevOps
-Docker · Git · GitHub Actions · GitLab CI/CD · Kubernetes (Basics)
+
+Docker • Git • GitHub Actions • GitLab CI/CD • Kubernetes (Basics)
 
 ### 📊 Monitoring
-CloudWatch · Grafana  
 
-### 💻 Programming
-TypeScript · Python · Shell Scripting  
+CloudWatch • Grafana
 
-### 🌐 Web & Tools
-Nginx · Linux (Ubuntu) · Prisma · PostgreSQL  
+### 💻 Languages
 
----
+TypeScript • Python • Shell
 
-## 📅 Experience
+### 🌐 Others
 
-### 🔹 DevOps Engineer — Synvolve Intellis Pvt Ltd (2025 – Present)
-- Built CI/CD pipelines reducing deployment time by **40%**
-- Automated Docker workflows for consistent releases  
-- Deployed applications on **AWS ECS (Fargate)**  
-- Managed AWS infrastructure and networking  
-- Configured Nginx reverse proxy  
-- Resolved CI/CD runner and permission issues  
-
----
-
-### 🔹 Web Developer Intern — Active Theory (2024)
-- Built React & Shopify applications  
-- Improved UI/UX and performance  
-
----
-
-## 🎓 Education
-
-**B.Tech – Computer Science and Business Systems**  
-Nehru Institute of Engineering and Technology  
-CGPA: 7.44  
-
----
-
-## 📜 Certifications
-- Cloud Computing – Gateway Solutions  
-- Data Visualization – IBM  
-- Full Stack Developer – Techvolt  
-
----
-
-## 📫 Connect With Me
-
-- 🌐 Portfolio: https://bento.me/yoge  
-- 💼 LinkedIn: https://linkedin.com/in/Yogeshramu  
-- 🐦 Twitter: https://twitter.com/Yogeshramu  
-- 📸 Instagram: https://instagram.com/yogeoffcl  
-- 💻 GitHub: https://github.com/Yogeshramu  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yogeshramu&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshramu&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshramu&layout=compact&theme=tokyonight" />
+Nginx • Linux • PostgreSQL • Prisma
 
 </div>
 
 ---
 
-## ⚡ Fun Fact
-I enjoy debugging production issues more than writing code 😄
+# 💼 Experience
+
+## 🔹 DevOps Engineer — Synvolve Intellis
+
+📅 2025 – Present
+
+* 🚀 Built CI/CD pipelines (**40% faster deployments**)
+* 🐳 Dockerized applications
+* ☁️ Deployed on AWS ECS (Fargate)
+* 🔧 Fixed production issues & improved reliability
+* 🔐 Managed AWS infra & networking
+
+---
+
+## 🔹 Web Developer Intern — Active Theory
+
+📅 2024
+
+* Built React & Shopify apps
+* Improved UI/UX & performance
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yogeshramu&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshramu&theme=tokyonight"/>
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshramu&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# ⚡ DevOps Mindset
+
+```bash
+while(true) {
+  automate();
+  deploy();
+  monitor();
+  optimize();
+}
+```
+
+---
+
+# 📬 Let's Connect
+
+* 🌐 Portfolio → [https://bento.me/yoge](https://bento.me/yoge)
+* 💼 LinkedIn → [https://linkedin.com/in/Yogeshramu](https://linkedin.com/in/Yogeshramu)
+* 📧 Email → [yogeshpmk1@gmail.com](mailto:yogeshpmk1@gmail.com)
+
+---
+
+<div align="center">
+
+🔥 *Build → Automate → Scale → Repeat*
+
+</div>
+```
+
+---
+
