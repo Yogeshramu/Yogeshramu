@@ -1,109 +1,149 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=1D76DB&width=900&lines=Welcome+to+My+GitHub+Profile+-+I'm+Yogesh+R+React+/+Next+JS+Developer" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=900&lines=Hi+👋+I'm+Yogesh+R;DevOps+Engineer+%7C+AWS+%7C+Docker+%7C+CI/CD;Building+Scalable+and+Automated+Systems" />
 </div>
 
 ---
 
-## 🏠 About Me
-**React & Next.js Developer** with hands-on experience building scalable, high-performance, and user-centric web applications.  
+# 👨‍💻 Yogesh R — DevOps Engineer
+
+📍 Coimbatore, India  
+📧 yogeshpmk1@gmail.com  
+📱 +91 8056885792  
+
+---
+
+## 🚀 About Me
+
+DevOps Engineer with hands-on experience in building **scalable cloud infrastructure**, **CI/CD pipelines**, and **containerized deployments**.
+
 I specialize in:
-- Modern frontend development  
-- API integrations  
-- CMS-based workflows  
-- Database interactions with Prisma & PostgreSQL  
-- Clean UI engineering using TypeScript & Tailwind CSS  
+- ⚙️ Automating deployments using CI/CD pipelines  
+- ☁️ Designing AWS cloud infrastructure  
+- 🐳 Containerizing applications using Docker  
+- 📦 Managing production systems with reliability & performance focus  
 
-Currently working at **Synvolve Intellis Pvt Ltd**, contributing to CRM, HRM, CMS, e-commerce, and portfolio-based platforms.
-
----
-
-## 👨‍💻 What I Do
-### **Frontend Development**
-- Building SEO-optimized, responsive web applications using **React.js** and **Next.js**
-- Architecting modular, maintainable UI systems with **TypeScript + Tailwind CSS**
-- Integrating **REST APIs**, **Sanity CMS**, and **NextAuth/JWT** authentication flows
-
-### **UI/UX Engineering**
-- Crafting visually appealing, intuitive interfaces  
-- Enhancing user experience through micro-interactions, accessibility & performance optimization  
-
-### **Backend & Database**
-- Working with **Prisma ORM**, **PostgreSQL**, **Firebase**, and **API-driven workflows**
+Currently working at **Synvolve Intellis Pvt Ltd**, improving deployment efficiency and system stability.
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 What I Do
 
-### **📸 Instagram-Style Social Media App**  
-**Tech Stack:** React.js, Firebase  
-A fully responsive Instagram-like web application with authentication, post creation, user profiles, and real-time messaging.  
-**Impact:** Improved UI/UX which boosted engagement by **40%**.  
-👉 **[View Project](https://github.com/Yogeshramu/cloning-insta)**
+### ⚙️ DevOps & CI/CD
+- Built CI/CD pipelines using **GitHub Actions & GitLab CI/CD**
+- Automated Docker build, push & deployment workflows
+- Reduced deployment time by **40%**
 
----
+### ☁️ Cloud & Infrastructure
+- Designed and managed AWS infra:
+  - EC2, ECS (Fargate), RDS, S3, VPC, IAM, ALB
+- Created secure, scalable architectures with proper networking
 
-## 📅 Experience Timeline
+### 🐳 Containerization
+- Dockerized applications for consistent deployments
+- Managed container lifecycle, debugging & optimization
 
-### **🔹 React Developer — Synvolve Intellis Pvt Ltd (2025 – Present)**  
-- Developing responsive React/Next.js apps with strong focus on performance & SEO  
-- Integrating REST APIs, Sanity CMS, Prisma, and PostgreSQL  
-- Implementing secure auth workflows using **NextAuth/JWT**  
-- Working on CRM, HRM, CMS, e-commerce & portfolio systems  
-- Awarded **Employee of the Month** for outstanding project delivery  
-
----
-
-### **🔹 Operations Executive — Infoedge (India) Ltd (2025)**  
-- Supported HR recruitment workflows & ARM system data management  
+### 📊 Monitoring & Reliability
+- Used **CloudWatch & Grafana** for monitoring
+- Debugged production issues and improved uptime
 
 ---
 
-### **🔹 Web Developer Intern — Active Theory (2024)**  
-- Built multiple React & Shopify web applications  
-- Improved UI/UX designs and branding  
-- Created responsive, performance-oriented web experiences  
+## 🏗️ Featured Projects
+
+### 🚀 AWS ECS Production Deployment Architecture
+**Tech Stack:** AWS ECS, Docker, ECR, RDS, ALB, VPC, GitLab CI/CD  
+
+- Designed **multi-AZ architecture**
+- Deployed apps on **ECS Fargate**
+- Implemented **CI/CD pipeline for auto deployment**
+- Configured ALB for scalability  
+
+---
+
+### ⚙️ CI/CD Pipeline Automation System
+**Tech Stack:** GitHub Actions, Docker, AWS, Linux  
+
+- Built end-to-end CI/CD pipelines  
+- Automated build → test → deploy workflow  
+- Reduced manual work & improved release consistency  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
-React.js · Next.js · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS · Shopify
+### ☁️ Cloud
+AWS (EC2, ECS, ECR, RDS, S3, VPC, IAM, ALB, CloudWatch)
 
-### **Backend / DB**
-Firebase · PostgreSQL · Prisma · RESTful APIs
+### ⚙️ DevOps
+Docker · Git · GitHub Actions · GitLab CI/CD · Kubernetes (Basics)
 
-### **Tools / Others**
-Sanity CMS · NextAuth/JWT · Git · Figma · UI/UX Principles
+### 📊 Monitoring
+CloudWatch · Grafana  
+
+### 💻 Programming
+TypeScript · Python · Shell Scripting  
+
+### 🌐 Web & Tools
+Nginx · Linux (Ubuntu) · Prisma · PostgreSQL  
+
+---
+
+## 📅 Experience
+
+### 🔹 DevOps Engineer — Synvolve Intellis Pvt Ltd (2025 – Present)
+- Built CI/CD pipelines reducing deployment time by **40%**
+- Automated Docker workflows for consistent releases  
+- Deployed applications on **AWS ECS (Fargate)**  
+- Managed AWS infrastructure and networking  
+- Configured Nginx reverse proxy  
+- Resolved CI/CD runner and permission issues  
+
+---
+
+### 🔹 Web Developer Intern — Active Theory (2024)
+- Built React & Shopify applications  
+- Improved UI/UX and performance  
+
+---
+
+## 🎓 Education
+
+**B.Tech – Computer Science and Business Systems**  
+Nehru Institute of Engineering and Technology  
+CGPA: 7.44  
+
+---
+
+## 📜 Certifications
+- Cloud Computing – Gateway Solutions  
+- Data Visualization – IBM  
+- Full Stack Developer – Techvolt  
 
 ---
 
 ## 📫 Connect With Me
-- 🌐 **Portfolio:** https://bento.me/yoge  
-- 💼 **LinkedIn:** https://linkedin.com/in/Yogeshramu  
-- 📸 **Instagram:** https://instagram.com/yogeoffcl  
-- 🐦 **Twitter:** https://twitter.com/Yogeshramu  
-- 📧 **Email:** yogeshpmk1@gmail.com  
-- 💻 **GitHub:** https://github.com/Yogeshramu  
+
+- 🌐 Portfolio: https://bento.me/yoge  
+- 💼 LinkedIn: https://linkedin.com/in/Yogeshramu  
+- 🐦 Twitter: https://twitter.com/Yogeshramu  
+- 📸 Instagram: https://instagram.com/yogeoffcl  
+- 💻 GitHub: https://github.com/Yogeshramu  
 
 ---
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 20px; padding: 40px;">
-  <div style="flex: 1; text-align: center; padding: 20px;">
-    <img width="600" src="https://github-readme-stats.vercel.app/api?username=Yogeshramu&count_private=true&theme=radical&show_icons=true" />
-  </div>
-  <div style="flex: 1; text-align: center; padding: 20px;">
-    <img width="600" src="https://github-readme-streak-stats.herokuapp.com?user=Yogeshramu&theme=dark&hide_border=true&background=120303" />
-  </div>
-  <div style="flex: 1; text-align: center; padding: 20px;">
-    <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshramu&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-  </div>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yogeshramu&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshramu&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshramu&layout=compact&theme=tokyonight" />
+
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Thank You" width="300">
-</p>
+## ⚡ Fun Fact
+I enjoy debugging production issues more than writing code 😄
