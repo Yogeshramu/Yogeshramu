@@ -1,170 +1,182 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yogesh%20R&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation%20%7C%20Infrastructure&descAlignY=60&descSize=16&animation=fadeIn" />
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║    ██╗   ██╗ ██████╗  ██████╗ ███████╗███████╗██╗  ██╗         ║
+║    ╚██╗ ██╔╝██╔═══██╗██╔════╝ ██╔════╝██╔════╝██║  ██║         ║
+║     ╚████╔╝ ██║   ██║██║  ███╗█████╗  ███████╗███████║         ║
+║      ╚██╔╝  ██║   ██║██║   ██║██╔══╝  ╚════██║██╔══██║         ║
+║       ██║   ╚██████╔╝╚██████╔╝███████╗███████║██║  ██║         ║
+║       ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝         ║
+║                                                                  ║
+║                D E V O P S   E N G I N E E R                    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Cloud+Infrastructure+%F0%9F%9A%80;Automating+Everything+with+CI%2FCD+%E2%9A%99%EF%B8%8F;Docker+%7C+AWS+%7C+GitHub+Actions+%7C+K8s;DevOps+Engineer+%40+Synvolve+Intellis)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- CONTACT BADGES -->
-[![Email](https://img.shields.io/badge/yogeshpmk1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshpmk1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yogeshramu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogeshramu)
-[![GitHub](https://img.shields.io/badge/GitHub-yogeshramu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yogeshramu)
-[![Phone](https://img.shields.io/badge/%2B91%208056885792-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918056885792)
-[![Location](https://img.shields.io/badge/Coimbatore%2C%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Coimbatore,India)
-
-</div>
-
----
-
-## 🧠 Profile
-
-> **DevOps Engineer** with hands-on experience designing and implementing **CI/CD pipelines**, **containerized deployments**, and scalable **AWS cloud infrastructure**. Skilled in Docker, AWS ECS, GitHub Actions, Linux administration, and cloud networking. Experienced in building secure, automated deployment environments and improving application reliability through modern DevOps practices.
-
----
-
-## 💼 Professional Experience
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 DevOps Engineer
-**Synvolve Intellis Pvt Ltd** · *Jun 2025 – Present*
-📍 Coimbatore, India
-
-- ⚡ Built and optimized **CI/CD pipelines** using GitHub Actions, reducing deployment time by **40%**
-- 🐳 Automated Docker image build & deployment workflows for consistent releases
-- 📦 Containerized apps using **Docker** and deployed on **AWS ECS (Fargate)**
-- ☁️ Managed AWS infrastructure: **EC2, VPC, IAM, Security Groups**
-- 📊 Monitored performance & logs using **AWS CloudWatch**
-- 🔧 Configured **Nginx** as reverse proxy for application deployments
-- 🏃 Set up & maintained **GitLab Runner**, resolving CI/CD permission issues
-- 🧹 Managed Docker containers: cleanup, debugging & performance optimization
-
-</td>
-<td width="50%">
-
-### 💻 Web Developer Intern
-**Active Theory** · *Jun 2024 – Nov 2024*
-📍 Coimbatore, India
-
-- ⚛️ Designed and developed **React-based web applications** and **Shopify e-commerce** stores
-- 🎨 Delivered high-performance, responsive websites driving conversions
-- 🖌️ Demonstrated expertise in **UI/UX design**, improving user experience and branding through visually appealing interfaces
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
-![ECR](https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ALB](https://img.shields.io/badge/ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-
-### ⚙️ DevOps Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 📈 Monitoring
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-
-### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=docker+build+.+%E2%86%92+Pushing+to+ECR...;github+actions+triggered+%E2%86%92+Deploy+in+progress...;aws+ecs+update-service+%E2%86%92+Rolling+update...;kubectl+get+pods+%E2%86%92+All+systems+operational+%E2%9C%85)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center"><code>$ whoami</code></div>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yogeshramu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshramu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yogeshramu&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff)](https://git.io/streak-stats)
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yogeshramu&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b35&area=true&hide_border=true)
-
-</div>
-
----
-
-## 🎓 Education
-
-| 🏛️ Institution | 📚 Degree | 📅 Year | 📍 Location | 🏆 Result |
-|---|---|---|---|---|
-| Nehru Institute of Engineering and Technology | B.Tech – Computer Science & Business Systems | 2021 – 2025 | Coimbatore, India | CGPA: **7.44** |
-
----
-
-## 📜 Certifications
-
-| 🏅 Certificate | 🏢 Issuer | 📅 Period | 📍 Location |
-|---|---|---|---|
-| Cloud Computing | Gateway Solutions | Mar 2023 – Apr 2023 | Coimbatore, India |
-| Data Visualization | IBM | May 2024 – Jun 2024 | Coimbatore, India |
-| Full Stack Developer | Techvolt | Aug 2024 – Oct 2024 | Coimbatore, India |
-
----
-
-## 🚀 DevOps Philosophy
-
-```bash
-$ cat devops_mindset.sh
-
-#!/bin/bash
-echo "🔁 Automate everything that can be automated"
-echo "📦 Containerize for consistency across environments"
-echo "🔒 Security is not an afterthought — it's built-in"
-echo "📊 If you can't measure it, you can't improve it"
-echo "🚀 Ship fast, fail safe, recover faster"
+```yaml
+name     : Yogesh R
+role     : DevOps Engineer  @  Synvolve Intellis Pvt Ltd
+location : Coimbatore, India 🇮🇳
+email    : yogeshpmk1@gmail.com
+phone    : +91 8056885792
+linkedin : linkedin.com/in/yogeshramu
+github   : github.com/Yogeshramu
+status   : 🟢 Building. Automating. Shipping.
 ```
 
 ---
 
+<div align="center"><code>$ cat about.txt</code></div>
+
+```
+  DevOps engineer who ships infrastructure as code, not excuses.
+  I design CI/CD pipelines, containerize workloads, and make
+  cloud infrastructure boring — in the best way possible.
+
+  ⚡ 40% faster deployments   │  🐳 Docker + ECS Fargate
+  ☁️  AWS Cloud Native         │  🔁 GitHub Actions CI/CD
+  🔒 IAM & VPC Security       │  📊 CloudWatch Monitoring
+```
+
+---
+
+<div align="center"><code>$ ls -la ~/experience/</code></div>
+
+```
+drwxr-xr-x  synvolve_intellis/    [Jun 2025 → Present]    DevOps Engineer
+drwxr-xr-x  active_theory/        [Jun 2024 → Nov 2024]   Web Developer Intern
+```
+
+<details>
+<summary>&nbsp;&nbsp;<code>$ cat synvolve_intellis/responsibilities.log</code></summary>
+
+<br>
+
+```diff
++ Built & optimized CI/CD pipelines via GitHub Actions  →  40% faster deploys
++ Automated Docker image build & push workflows for consistent zero-touch releases
++ Containerized applications using Docker → deployed on AWS ECS (Fargate)
++ Managed AWS infrastructure: EC2 · VPC · IAM · Security Groups
++ Monitored logs & performance using AWS CloudWatch
++ Troubleshot deployment failures & resolved production issues
++ Configured Nginx as reverse proxy for production app deployments
++ Set up & maintained GitLab Runner; resolved CI/CD permission issues
++ Docker container lifecycle: cleanup · debugging · performance tuning
+```
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<code>$ cat active_theory/responsibilities.log</code></summary>
+
+<br>
+
+```diff
++ Designed & developed React-based web apps and Shopify e-commerce stores
++ Delivered high-performance, responsive, conversion-optimized websites
++ Applied strong UI/UX design principles for improved branding and UX
+```
+
+</details>
+
+---
+
+<div align="center"><code>$ neofetch --skills</code></div>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  Cloud & Infrastructure                                         │
+│  ├── AWS EC2 / ECS / ECR / RDS / S3          ██████████  98%   │
+│  ├── AWS VPC / IAM / ALB / CloudWatch        ██████████  95%   │
+│  └── Cloud Networking & Security             █████████░  90%   │
+│                                                                 │
+│  DevOps Toolchain                                               │
+│  ├── Docker & Container Management           ██████████  98%   │
+│  ├── GitHub Actions CI/CD                    ██████████  95%   │
+│  ├── GitLab CI/CD & GitLab Runner            █████████░  90%   │
+│  ├── Kubernetes                              ████████░░  80%   │
+│  └── Nginx (Reverse Proxy)                   █████████░  92%   │
+│                                                                 │
+│  Monitoring                                                     │
+│  ├── AWS CloudWatch                          ██████████  95%   │
+│  └── Grafana                                 ██████░░░░  65%   │
+│                                                                 │
+│  Languages & Scripting                                          │
+│  ├── Shell / Bash Scripting                  █████████░  90%   │
+│  ├── Python                                  ████████░░  80%   │
+│  └── TypeScript                              ███████░░░  70%   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center"><code>$ git log --oneline --graph</code></div>
+
 <div align="center">
 
-### 📬 Let's Connect & Build Something Great!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yogeshramu&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117&include_all_commits=true&count_private=true)
 
-[![Email](https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshpmk1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogeshramu)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yogeshramu)
+![Streak](https://streak-stats.demolab.com?user=Yogeshramu&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
 
-<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshramu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yogeshramu&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+</div>
 
-<br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn"/>
+<div align="center"><code>$ cat /etc/education.conf</code></div>
+
+```ini
+[degree]
+institution = Nehru Institute of Engineering and Technology
+program     = B.Tech — Computer Science and Business Systems
+period      = 2021 – 2025
+cgpa        = 7.44
+location    = Coimbatore, India
+```
+
+---
+
+<div align="center"><code>$ ls ~/certifications/ -1v</code></div>
+
+```
+📜  cloud_computing         │  Gateway Solutions  │  Mar – Apr 2023
+📜  data_visualization      │  IBM                │  May – Jun 2024
+📜  full_stack_developer    │  Techvolt            │  Aug – Oct 2024
+```
+
+---
+
+<div align="center"><code>$ ping -c 1 yogesh</code></div>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-yogeshpmk1%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=161b22)](mailto:yogeshpmk1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yogeshramu-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22)](https://linkedin.com/in/yogeshramu)
+[![GitHub](https://img.shields.io/badge/GitHub-Yogeshramu-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22)](https://github.com/Yogeshramu)
+[![Phone](https://img.shields.io/badge/WhatsApp-+91 8056885792-0d1117?style=for-the-badge&logo=whatsapp&logoColor=58a6ff&labelColor=161b22)](tel:+918056885792)
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+$ echo "Build. Ship. Automate. Repeat. 🚀"
+Build. Ship. Automate. Repeat. 🚀
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yogeshramu&color=58a6ff&style=flat-square&label=profile+views)
 
 </div>
