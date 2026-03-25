@@ -1,19 +1,6 @@
 <div align="center">
 
-```
-                              ╔═══════════════════════════════════════════════════════════╗
-                              ║                                                           ║
-                              ║    ██╗   ██╗ ██████╗  ██████╗ ███████╗███████╗██╗  ██╗    ║
-                              ║    ╚██╗ ██╔╝██╔═══██╗██╔════╝ ██╔════╝██╔════╝██║  ██║    ║
-                              ║     ╚████╔╝ ██║   ██║██║  ███╗█████╗  ███████╗███████║    ║
-                              ║      ╚██╔╝  ██║   ██║██║   ██║██╔══╝  ╚════██║██╔══██     ║
-                              ║       ██║   ╚██████╔╝╚██████╔╝███████╗███████║██║  ██║    ║
-                              ║       ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝    ║
-                              ║                                                           ║
-                              ║                D E V O P S   E N G I N E E R              ║
-                              ║                                                           ║
-                              ╚═══════════════════════════════════════════════════════════╝
-```
+<img src="./header.svg" alt="Yogesh R - DevOps Engineer" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=docker+build+.+%E2%86%92+Pushing+to+ECR...;github+actions+triggered+%E2%86%92+Deploy+in+progress...;aws+ecs+update-service+%E2%86%92+Rolling+update...;kubectl+get+pods+%E2%86%92+All+systems+operational+%E2%9C%85)](https://git.io/typing-svg)
 
@@ -120,15 +107,19 @@ drwxr-xr-x  active_theory/        [Jun 2024 → Nov 2024]   Web Developer Intern
 
 ---
 
-<div align="center"><code>$ git log --oneline --graph</code></div>
+<div align="center"><code>$ watch -n 1 git contributions</code></div>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yogeshramu&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117&include_all_commits=true&count_private=true)
+![Snake animation](https://raw.githubusercontent.com/Yogeshramu/Yogeshramu/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yogeshramu&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117&include_all_commits=true&count_private=true)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshramu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
 
 ![Streak](https://streak-stats.demolab.com?user=Yogeshramu&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshramu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
 
 </div>
 
@@ -164,7 +155,7 @@ location    = Coimbatore, India
 [![Email](https://img.shields.io/badge/Gmail-yogeshpmk1%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=161b22)](mailto:yogeshpmk1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yogeshramu-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22)](https://linkedin.com/in/yogeshramu)
 [![GitHub](https://img.shields.io/badge/GitHub-Yogeshramu-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22)](https://github.com/Yogeshramu)
-[![Phone](https://img.shields.io/badge/WhatsApp-+91 8056885792-0d1117?style=for-the-badge&logo=whatsapp&logoColor=58a6ff&labelColor=161b22)](tel:+918056885792)
+[![Phone](https://img.shields.io/badge/WhatsApp-%2B91%208056885792-0d1117?style=for-the-badge&logo=whatsapp&logoColor=58a6ff&labelColor=161b22)](tel:+918056885792)
 
 </div>
 
