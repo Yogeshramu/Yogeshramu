@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="./header.svg" alt="Yogesh R - Full Stack Developer" width="100%" />
@@ -183,4 +182,4 @@ Code. Build. Scale. Repeat. 🚀
 ![Profile Views](https://komarev.com/ghpvc/?username=Yogeshramu\&color=58a6ff\&style=flat-square\&label=profile+views)
 
 </div>
-```
+
