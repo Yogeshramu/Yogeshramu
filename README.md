@@ -6,7 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+scalable+full-stack+applications;Developing+modern+UIs+with+Next.js+and+React.js;Designing+REST+APIs+with+Node.js+and+Express.js;Deploying+production-ready+applications+on+AWS+🚀)](https://git.io/typing-svg)
 
 </div>
----
 
 <div align="center"><code>$ whoami</code></div>
 
