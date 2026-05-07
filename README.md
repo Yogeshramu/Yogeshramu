@@ -2,7 +2,7 @@
 
 <img src="./header.svg" alt="Yogesh R - Full Stack Developer" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=npm+run+build+%E2%86%92+Production+optimized...;next+build+%E2%86%92+Static+pages+generated...;node+server.js+%E2%86%92+API+running+on+port+3000...;git+push+origin+main+%E2%86%92+Deployment+successful+%E2%9C%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+applications...;Developing+modern+UIs+with+Next.js+%26+React...;Designing+REST+APIs+with+Node.js+%26+Express...;Deploying+production-ready+apps+on+AWS+%E2%9C%85)](https://git.io/typing-svg)
 
 </div>
 
