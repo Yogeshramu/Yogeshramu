@@ -1,8 +1,9 @@
+````md
 <div align="center">
 
-<img src="./header.svg" alt="Yogesh R - DevOps Engineer" width="100%" />
+<img src="./header.svg" alt="Yogesh R - Full Stack Developer" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=docker+build+.+%E2%86%92+Pushing+to+ECR...;github+actions+triggered+%E2%86%92+Deploy+in+progress...;aws+ecs+update-service+%E2%86%92+Rolling+update...;kubectl+get+pods+%E2%86%92+All+systems+operational+%E2%9C%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=npm+run+build+%E2%86%92+Production+optimized...;next+build+%E2%86%92+Static+pages+generated...;node+server.js+%E2%86%92+API+running+on+port+3000...;git+push+origin+main+%E2%86%92+Deployment+successful+%E2%9C%85)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,35 +13,40 @@
 
 ```yaml
 name     : Yogesh R
-role     : DevOps Engineer  @  Synvolve Intellis Pvt Ltd
+role     : Full Stack Developer @ Synvolve Intellis Pvt Ltd
 location : Coimbatore, India 🇮🇳
 email    : yogeshpmk1@gmail.com
 phone    : +91 8056885792
 linkedin : linkedin.com/in/yogeshramu
 github   : github.com/Yogeshramu
-status   : 🟢 Building. Automating. Shipping.
-```
+status   : 🟢 Building scalable web experiences
+````
 
 ---
 
 <div align="center"><code>$ cat about.txt</code></div>
 
-```
-  DevOps engineer who ships infrastructure as code, not excuses.
-  I design CI/CD pipelines, containerize workloads, and make
-  cloud infrastructure boring — in the best way possible.
+```txt
+  Full Stack Developer focused on building scalable,
+  high-performance web applications using modern
+  frontend and backend technologies.
 
-  ⚡ 40% faster deployments   │  🐳 Docker + ECS Fargate
-  ☁️  AWS Cloud Native         │  🔁 GitHub Actions CI/CD
-  🔒 IAM & VPC Security       │  📊 CloudWatch Monitoring
+  I develop responsive UIs, design REST APIs,
+  optimize databases, and deploy production-ready
+  applications on cloud infrastructure.
+
+  ⚡ Scalable Full Stack Applications
+  ⚛️ Next.js + React.js Ecosystem
+  🚀 Node.js Backend Development
+  ☁️ AWS Cloud Deployment
 ```
 
 ---
 
 <div align="center"><code>$ ls -la ~/experience/</code></div>
 
-```
-drwxr-xr-x  synvolve_intellis/    [Jun 2025 → Present]    DevOps Engineer
+```bash
+drwxr-xr-x  synvolve_intellis/    [Mar 2025 → Present]    Full Stack Developer
 drwxr-xr-x  active_theory/        [Jun 2024 → Nov 2024]   Web Developer Intern
 ```
 
@@ -50,15 +56,14 @@ drwxr-xr-x  active_theory/        [Jun 2024 → Nov 2024]   Web Developer Intern
 <br>
 
 ```diff
-+ Built & optimized CI/CD pipelines via GitHub Actions  →  40% faster deploys
-+ Automated Docker image build & push workflows for consistent zero-touch releases
-+ Containerized applications using Docker → deployed on AWS ECS (Fargate)
-+ Managed AWS infrastructure: EC2 · VPC · IAM · Security Groups
-+ Monitored logs & performance using AWS CloudWatch
-+ Troubleshot deployment failures & resolved production issues
-+ Configured Nginx as reverse proxy for production app deployments
-+ Set up & maintained GitLab Runner; resolved CI/CD permission issues
-+ Docker container lifecycle: cleanup · debugging · performance tuning
++ Developed scalable full-stack applications using Next.js and Node.js
++ Designed and implemented REST APIs for business logic and data processing
++ Integrated PostgreSQL database with backend services for optimized data handling
++ Built responsive and high-performance user interfaces using React.js
++ Deployed production applications on AWS using Docker containers
++ Configured Nginx for reverse proxy and request routing
++ Automated deployment workflows using GitHub Actions CI/CD
++ Optimized application performance, reliability, and security
 ```
 
 </details>
@@ -69,9 +74,10 @@ drwxr-xr-x  active_theory/        [Jun 2024 → Nov 2024]   Web Developer Intern
 <br>
 
 ```diff
-+ Designed & developed React-based web apps and Shopify e-commerce stores
-+ Delivered high-performance, responsive, conversion-optimized websites
-+ Applied strong UI/UX design principles for improved branding and UX
++ Developed responsive web applications using React.js and Next.js
++ Built and maintained Shopify e-commerce websites
++ Integrated frontend applications with backend APIs
++ Improved UI/UX design and optimized application performance
 ```
 
 </details>
@@ -80,48 +86,54 @@ drwxr-xr-x  active_theory/        [Jun 2024 → Nov 2024]   Web Developer Intern
 
 <div align="center"><code>$ neofetch --skills</code></div>
 
-```
+```bash
 ┌─────────────────────────────────────────────────────────────────┐
-│  Cloud & Infrastructure                                         │
-│  ├── AWS EC2 / ECS / ECR / RDS / S3          ██████████  98%   │
-│  ├── AWS VPC / IAM / ALB / CloudWatch        ██████████  95%   │
-│  └── Cloud Networking & Security             █████████░  90%   │
+│  Frontend Development                                           │
+│  ├── React.js / Next.js                     ██████████  95%   │
+│  ├── TypeScript / JavaScript                █████████░  90%   │
+│  ├── HTML5 / CSS3 / Tailwind CSS            █████████░  90%   │
+│  └── Responsive UI Development              ██████████  95%   │
 │                                                                 │
-│  DevOps Toolchain                                               │
-│  ├── Docker & Container Management           ██████████  98%   │
-│  ├── GitHub Actions CI/CD                    ██████████  95%   │
-│  ├── GitLab CI/CD & GitLab Runner            █████████░  90%   │
-│  ├── Kubernetes                              ████████░░  80%   │
-│  └── Nginx (Reverse Proxy)                   █████████░  92%   │
+│  Backend Development                                            │
+│  ├── Node.js / Express.js                   █████████░  90%   │
+│  ├── REST API Development                   █████████░  90%   │
+│  ├── Authentication & Authorization         ████████░░  80%   │
+│  └── Backend Architecture                   ████████░░  82%   │
 │                                                                 │
-│  Monitoring                                                     │
-│  ├── AWS CloudWatch                          ██████████  95%   │
-│  └── Grafana                                 ██████░░░░  65%   │
+│  Database & Cloud                                                │
+│  ├── PostgreSQL / MongoDB                   █████████░  88%   │
+│  ├── AWS EC2 / ECS / S3 / RDS               ████████░░  80%   │
+│  ├── Docker & Deployment                    █████████░  85%   │
+│  └── Nginx / Linux                          ████████░░  82%   │
 │                                                                 │
-│  Languages & Scripting                                          │
-│  ├── Shell / Bash Scripting                  █████████░  90%   │
-│  ├── Python                                  ████████░░  80%   │
-│  └── TypeScript                              ███████░░░  70%   │
+│  Tools & Workflow                                                │
+│  ├── Git / GitHub                           ██████████  95%   │
+│  ├── GitHub Actions CI/CD                   ████████░░  80%   │
+│  └── API Integration & Debugging            █████████░  88%   │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-<div align="center"><code>$ watch -n 1 git contributions</code></div>
+<div align="center"><code>$ cat ~/projects/featured_projects.md</code></div>
 
-<div align="center">
+## 🚀 Experiential Learning Platform
 
-![Snake animation](https://raw.githubusercontent.com/Yogeshramu/Yogeshramu/output/github-contribution-grid-snake-dark.svg)
+```diff
++ Built scalable full-stack educational platform using Next.js and Node.js
++ Designed REST APIs with PostgreSQL for dynamic program and event management
++ Implemented secure form handling, validation, and backend integrations
++ Deployed on AWS using Docker with CI/CD automation and Nginx configuration
+```
 
-</div>
+## 🌾 Farmer E-Commerce Platform
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yogeshramu&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117&include_all_commits=true&count_private=true)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshramu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
-
-![Streak](https://streak-stats.demolab.com?user=Yogeshramu&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
-
-</div>
+```diff
++ Developed a scalable farmer e-commerce platform with authentication and order management
++ Built responsive frontend using React.js with integrated Node.js and MongoDB backend
++ Implemented product management, cart system, and optimized user experience
++ Deployed production-ready application with reliable backend architecture
+```
 
 ---
 
@@ -140,10 +152,10 @@ location    = Coimbatore, India
 
 <div align="center"><code>$ ls ~/certifications/ -1v</code></div>
 
-```
+```bash
 📜  cloud_computing         │  Gateway Solutions  │  Mar – Apr 2023
 📜  data_visualization      │  IBM                │  May – Jun 2024
-📜  full_stack_developer    │  Techvolt            │  Aug – Oct 2024
+📜  full_stack_developer    │  Techvolt           │  Aug – Oct 2024
 ```
 
 ---
@@ -152,10 +164,10 @@ location    = Coimbatore, India
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-yogeshpmk1%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=161b22)](mailto:yogeshpmk1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yogeshramu-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22)](https://linkedin.com/in/yogeshramu)
-[![GitHub](https://img.shields.io/badge/GitHub-Yogeshramu-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22)](https://github.com/Yogeshramu)
-[![Phone](https://img.shields.io/badge/WhatsApp-%2B91%208056885792-0d1117?style=for-the-badge&logo=whatsapp&logoColor=58a6ff&labelColor=161b22)](tel:+918056885792)
+[![Email](https://img.shields.io/badge/Gmail-yogeshpmk1%40gmail.com-0d1117?style=for-the-badge\&logo=gmail\&logoColor=58a6ff\&labelColor=161b22)](mailto:yogeshpmk1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yogeshramu-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=58a6ff\&labelColor=161b22)](https://linkedin.com/in/yogeshramu)
+[![GitHub](https://img.shields.io/badge/GitHub-Yogeshramu-0d1117?style=for-the-badge\&logo=github\&logoColor=58a6ff\&labelColor=161b22)](https://github.com/Yogeshramu)
+[![Phone](https://img.shields.io/badge/WhatsApp-%2B91%208056885792-0d1117?style=for-the-badge\&logo=whatsapp\&logoColor=58a6ff\&labelColor=161b22)](tel:+918056885792)
 
 </div>
 
@@ -164,10 +176,11 @@ location    = Coimbatore, India
 <div align="center">
 
 ```bash
-$ echo "Build. Ship. Automate. Repeat. 🚀"
-Build. Ship. Automate. Repeat. 🚀
+$ echo "Code. Build. Scale. Repeat. 🚀"
+Code. Build. Scale. Repeat. 🚀
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yogeshramu&color=58a6ff&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=Yogeshramu\&color=58a6ff\&style=flat-square\&label=profile+views)
 
 </div>
+```
