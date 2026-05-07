@@ -1,9 +1,15 @@
 <div align="center">
 
-<h1>Yogesh R</h1>
-<h3>Full Stack Developer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,100:58a6ff&text=Yogesh%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%7C%20Node.js%20%7C%20AWS&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+scalable+full-stack+applications;Developing+modern+UIs+with+Next.js+and+React.js;Designing+REST+APIs+with+Node.js+and+Express.js;Deploying+production-ready+applications+on+AWS+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+scalable+full-stack+applications;Crafting+modern+UIs+with+Next.js+and+React.js;Designing+REST+APIs+with+Node.js+and+Express.js;Deploying+production-ready+applications+on+AWS+🚀)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React.js%20%7C%20Next.js-0d1117?style=for-the-badge&logo=react&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-0d1117?style=for-the-badge&logo=node.js&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20MongoDB-0d1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Docker-0d1117?style=for-the-badge&logo=amazonaws&logoColor=58A6FF" />
+</p>
 
 </div>
 
